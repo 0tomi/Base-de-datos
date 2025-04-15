@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Archivos de draw.io
+*.bkp
+
 # Compiled Object files
 *.slo
 *.lo
